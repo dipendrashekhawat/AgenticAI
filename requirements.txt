@@ -1,0 +1,16 @@
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+faiss-cpu
+langchain_google_genai
+pypdf
+langchain 
+langchain-pinecone
+weaviate-client
+langchain_weaviate
+wikipedia
+langgraph
