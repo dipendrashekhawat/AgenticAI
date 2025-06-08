@@ -14,3 +14,5 @@ weaviate-client
 langchain_weaviate
 wikipedia
 langgraph
+langchain_huggingface
+chromadb
